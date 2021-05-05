@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lilo-landing/static/css/main.5982a907.chunk.css",
+    "main.js": "/lilo-landing/static/js/main.fb91ada6.chunk.js",
+    "main.js.map": "/lilo-landing/static/js/main.fb91ada6.chunk.js.map",
+    "runtime-main.js": "/lilo-landing/static/js/runtime-main.af529e58.js",
+    "runtime-main.js.map": "/lilo-landing/static/js/runtime-main.af529e58.js.map",
+    "static/js/2.c8f3ac45.chunk.js": "/lilo-landing/static/js/2.c8f3ac45.chunk.js",
+    "static/js/2.c8f3ac45.chunk.js.map": "/lilo-landing/static/js/2.c8f3ac45.chunk.js.map",
+    "static/js/3.b82c485a.chunk.js": "/lilo-landing/static/js/3.b82c485a.chunk.js",
+    "static/js/3.b82c485a.chunk.js.map": "/lilo-landing/static/js/3.b82c485a.chunk.js.map",
+    "index.html": "/lilo-landing/index.html",
+    "static/css/main.5982a907.chunk.css.map": "/lilo-landing/static/css/main.5982a907.chunk.css.map",
+    "static/js/2.c8f3ac45.chunk.js.LICENSE.txt": "/lilo-landing/static/js/2.c8f3ac45.chunk.js.LICENSE.txt",
+    "static/media/accessibility-screen.50783628.png": "/lilo-landing/static/media/accessibility-screen.50783628.png",
+    "static/media/contact-card-placeholder.aa8809cc.png": "/lilo-landing/static/media/contact-card-placeholder.aa8809cc.png",
+    "static/media/feedback-screen.04e7d196.png": "/lilo-landing/static/media/feedback-screen.04e7d196.png",
+    "static/media/language-screen.93632880.png": "/lilo-landing/static/media/language-screen.93632880.png",
+    "static/media/requester-home-screens.505b8bec.png": "/lilo-landing/static/media/requester-home-screens.505b8bec.png",
+    "static/media/requester-review-screens.a2f59eaa.png": "/lilo-landing/static/media/requester-review-screens.a2f59eaa.png",
+    "static/media/translator-notification.02d9fab0.png": "/lilo-landing/static/media/translator-notification.02d9fab0.png",
+    "static/media/tutorial-screen.6c46a02c.png": "/lilo-landing/static/media/tutorial-screen.6c46a02c.png",
+    "static/media/video-call.7ff4cd3e.png": "/lilo-landing/static/media/video-call.7ff4cd3e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af529e58.js",
+    "static/js/2.c8f3ac45.chunk.js",
+    "static/css/main.5982a907.chunk.css",
+    "static/js/main.fb91ada6.chunk.js"
+  ]
+}
