@@ -1,0 +1,40 @@
+/* Home page */
+.home-page section:nth-child(even) {
+  background-color: #F5F5F5;
+}
+
+/* Section 1 (Summary) and Section 2 (Why it's important) */
+.summary, .why, .try-it {
+  height: 370px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.summary *, .why *, .try-it * {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* consider adding this as a universal rule for h1 and p */
+.summary h1, .summary p, .why h1, .why p {
+  text-align: left;
+}
+
+/* Section 3 - How it works*/
+/* .how-it-works img {
+  width: 100%;
+} */
+
+/* all sections */
+h1 {
+  font-weight: 700;
+}
+
+img {
+  width: 100%;
+}
