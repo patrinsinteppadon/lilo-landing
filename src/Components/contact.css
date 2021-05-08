@@ -1,0 +1,31 @@
+.contact-card {
+  display: flex;
+  flex-direction: row;
+  min-width: 360px; 
+}
+
+.contact-card:nth-child(even) {
+  margin-left: 50px;
+}
+
+.img-container {
+  width: 115px;
+  margin-right: 40px;
+}
+
+.contact-details {
+  text-align: left;
+}
+
+.contact-details * {
+  margin: 0px;
+  padding: 0px;
+}
+
+.contact-details h2 {
+  margin-bottom: 10px;
+}
+
+.contact-details a {
+  color: '#4A69D9';
+}

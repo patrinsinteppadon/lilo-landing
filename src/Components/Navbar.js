@@ -1,4 +1,5 @@
 import React from 'react';
+import waveLogo from '../img/logo.png';
 import { Link } from 'react-router-dom';
 
 function Navbar() {
@@ -6,7 +7,7 @@ function Navbar() {
     <nav className="navbar fixed-top navbar-light">
       <div className="d-flex justify-content-between">
         <Link to="/" className="navbar-brand">
-          Wave
+          <img style={{ width: '150px' }}src={waveLogo} alt="wave logo" />
         </Link>
       </div>
       <div id="nav-links">

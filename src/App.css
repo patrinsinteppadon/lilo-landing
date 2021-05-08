@@ -25,7 +25,7 @@ nav a:hover, nav span {
   cursor: pointer;
 }
 
-a, #nav-links {
+nav a, #nav-links {
   color: black;
   font-size: 18px;
   padding-left: 5px;
@@ -46,9 +46,6 @@ a, #nav-links {
 
 
 /* General page style */
-/* .home-page, .about-page {
-  width: 70%;
-} */
 
 /* Default */
 .App {
@@ -57,7 +54,17 @@ a, #nav-links {
   font-weight: 400;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 400;
 }
