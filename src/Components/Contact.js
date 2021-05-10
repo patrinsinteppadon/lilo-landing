@@ -2,13 +2,14 @@ import React from 'react';
 import placeholderImg from '../img/contact-img-placeholder.png';
 import './contact.css';
 
-function Contact({name, role, email, linkedin}) {
+function Contact({name, role, email, linkedin, img}) {
   return(
     <div className="contact-card">
       <div className="img-container">
         <img 
-          src={placeholderImg} 
-          alt="profile" 
+          style={{ borderRadius: "50%"}}
+          src={img} 
+          alt={name}
         />
       </div>
       <div className="contact-details">
