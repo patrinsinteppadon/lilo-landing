@@ -1,6 +1,6 @@
 import React from 'react';
-import Home from './Components/Home.js';
-import About from './Components/About.js';
+import Home from './Components/home/Home.js';
+import About from './Components/about/About.js';
 import Navbar from './Components/Navbar.js';
 import './App.css';
 import {

@@ -2,10 +2,10 @@ import React from 'react';
 import Contact from './Contact.js';
 import './about.css';
 
-import michelleImg from '../img/developers/michelle.jpg';
-import patrinImg from '../img/developers/patrin.png';
-import paolaImg from '../img/developers/paola.jpg';
-import tiffanyImg from '../img/developers/tiffany.png';
+import michelleImg from '../../img/developers/michelle.jpg';
+import patrinImg from '../../img/developers/patrin.png';
+import paolaImg from '../../img/developers/paola.jpg';
+import tiffanyImg from '../../img/developers/tiffany.png';
 
 function About() {
   return(
