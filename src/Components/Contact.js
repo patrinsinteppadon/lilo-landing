@@ -1,5 +1,4 @@
 import React from 'react';
-import placeholderImg from '../img/contact-img-placeholder.png';
 import './contact.css';
 
 function Contact({name, role, email, linkedin, img}) {
@@ -13,7 +12,7 @@ function Contact({name, role, email, linkedin, img}) {
         />
       </div>
       <div className="contact-details">
-        <h2>{name}</h2>
+        <h3>{name}</h3>
         <p>{role}</p>
         <a href = {"mailto: " + email}>{email}</a><br/>
         <a href={linkedin}>Linkedin</a>

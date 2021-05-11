@@ -1,6 +1,5 @@
 import React from 'react';
 import Contact from './Contact.js';
-import contactPlaceholder from '../img/contact-card-placeholder.png';
 import './about.css';
 
 import michelleImg from '../img/developers/michelle.jpg';
@@ -13,9 +12,9 @@ function About() {
     <div className="about-page">
       <section className="overview">
         <div>
-          <h1>
+          <h2>
             About the project
-          </h1>
+          </h2>
           <p>
             This is a University of Washington Information School Capstone project for Winter/Spring 2021. 
           </p>
@@ -27,9 +26,9 @@ function About() {
       <hr style={{ width: '20%', borderBottom: '2px solid #4A69D9' }}/>
       <section className="contact-us" style={{ marginTop: '50px' }}>
       <div>
-          <h1>
+          <h2>
             Contact Us
-          </h1>
+          </h2>
           <div className="row">
             <Contact 
               name="Michelle Lee"

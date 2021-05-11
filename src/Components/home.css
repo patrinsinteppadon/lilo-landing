@@ -3,9 +3,9 @@
   background-color: #F5F5F5;
 }
 
-/* Section 1 (Summary) and Section 2 (Why it's important) */
-.summary, .why, .try-it {
-  height: 370px;
+/* formats the contents of each section */
+.summary, .try-it {
+  /* height: 370px; */
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -13,25 +13,54 @@
 
 }
 
-.summary *, .why *, .try-it * {
+.summary *, .try-it * {
   width: 50%;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-/* consider adding this as a universal rule for h1 and p */
-.summary h1, .summary p, .why h1, .why p {
+.why {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.vertical-padding {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.horizontal-content {
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.horizontal-content p {
+  text-align: center;
+  width: 200px;
+}
+
+.why p {
+  width: 60%;
+}
+
+p {
   text-align: left;
 }
 
-/* Section 3 - How it works*/
-
-/* all sections */
-h1 {
-  font-weight: 700;
+section {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
+.summary {
+  height: 650px;
+}
+
+/* all sections */
 img {
   width: 100%;
 }
