@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lilo-landing/static/css/main.5075be7b.chunk.css",
-    "main.js": "/lilo-landing/static/js/main.b2098ac7.chunk.js",
-    "main.js.map": "/lilo-landing/static/js/main.b2098ac7.chunk.js.map",
+    "main.css": "/lilo-landing/static/css/main.c01bd349.chunk.css",
+    "main.js": "/lilo-landing/static/js/main.60df1a82.chunk.js",
+    "main.js.map": "/lilo-landing/static/js/main.60df1a82.chunk.js.map",
     "runtime-main.js": "/lilo-landing/static/js/runtime-main.59ca0e67.js",
     "runtime-main.js.map": "/lilo-landing/static/js/runtime-main.59ca0e67.js.map",
     "static/js/2.70d8b17d.chunk.js": "/lilo-landing/static/js/2.70d8b17d.chunk.js",
@@ -10,12 +10,13 @@
     "static/js/3.3e8d1423.chunk.js": "/lilo-landing/static/js/3.3e8d1423.chunk.js",
     "static/js/3.3e8d1423.chunk.js.map": "/lilo-landing/static/js/3.3e8d1423.chunk.js.map",
     "index.html": "/lilo-landing/index.html",
-    "static/css/main.5075be7b.chunk.css.map": "/lilo-landing/static/css/main.5075be7b.chunk.css.map",
+    "static/css/main.c01bd349.chunk.css.map": "/lilo-landing/static/css/main.c01bd349.chunk.css.map",
     "static/js/2.70d8b17d.chunk.js.LICENSE.txt": "/lilo-landing/static/js/2.70d8b17d.chunk.js.LICENSE.txt",
     "static/media/home-screen.f0127b56.png": "/lilo-landing/static/media/home-screen.f0127b56.png",
-    "static/media/icon-call.83bc72a8.png": "/lilo-landing/static/media/icon-call.83bc72a8.png",
-    "static/media/icon-globe.2ce08b97.png": "/lilo-landing/static/media/icon-globe.2ce08b97.png",
-    "static/media/icon-people.d05f5686.png": "/lilo-landing/static/media/icon-people.d05f5686.png",
+    "static/media/icon-book.73e77752.svg": "/lilo-landing/static/media/icon-book.73e77752.svg",
+    "static/media/icon-call.a43109ab.svg": "/lilo-landing/static/media/icon-call.a43109ab.svg",
+    "static/media/icon-globe.e654a38f.svg": "/lilo-landing/static/media/icon-globe.e654a38f.svg",
+    "static/media/icon-people.5e5f2208.svg": "/lilo-landing/static/media/icon-people.5e5f2208.svg",
     "static/media/logo.8879e6d6.png": "/lilo-landing/static/media/logo.8879e6d6.png",
     "static/media/michelle.0c5606d3.jpg": "/lilo-landing/static/media/michelle.0c5606d3.jpg",
     "static/media/paola.531317c3.jpg": "/lilo-landing/static/media/paola.531317c3.jpg",
@@ -29,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.59ca0e67.js",
     "static/js/2.70d8b17d.chunk.js",
-    "static/css/main.5075be7b.chunk.css",
-    "static/js/main.b2098ac7.chunk.js"
+    "static/css/main.c01bd349.chunk.css",
+    "static/js/main.60df1a82.chunk.js"
   ]
 }
