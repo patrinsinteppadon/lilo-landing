@@ -8,7 +8,7 @@ import reviewImg from '../../img/screens/requestor-feedback.png';
 function HowItWorks() {
   return(
     <section className="how-it-works vertical-padding">
-      <h2>How it Works</h2>
+      <h2>How it works</h2>
 
       <div>
         <img 
