@@ -3,7 +3,7 @@ import React from 'react';
 import homeScreenImg from '../../img/screens/home-screen.png';
 function Summary() {
   return(
-      <section className="summary">
+      <section className="summary vertical-padding">
         <div>
           <h1 style={{ width: "100%" }}>
             Real-time translation created for limited English proficiency users

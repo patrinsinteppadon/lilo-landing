@@ -4,8 +4,7 @@
 }
 
 /* formats the contents of each section */
-.summary, .try-it {
-  /* height: 370px; */
+.summary {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -13,7 +12,7 @@
 
 }
 
-.summary *, .try-it * {
+.summary * {
   width: 50%;
   display: flex;
   flex-direction: column;
@@ -48,15 +47,6 @@
   width: 60%;
 }
 
-h1, p {
-  text-align: left;
-}
-
-section {
-  padding-left: 100px;
-  padding-right: 100px;
-}
-
 .summary {
   height: 650px;
 }
@@ -64,15 +54,23 @@ section {
 .community p {
   width: 330px;
 }
+
 .accommodations p {
   width: 200px;
 }
 
-/* all sections */
-img {
-  width: 100%;
+.how-it-works p {
+  font-size: 30px;
+  max-width: 500px;
 }
 
+.how-it-works div {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+/* used in multiple sections*/
 .icon {
   width: 40px;
   height: 40px;
@@ -85,4 +83,33 @@ img {
   background: #F1F3FB;
   display: flex;
   justify-content: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 300px;
+  height: 50px;
+  border-radius: 36.5px;
+  background-color: #4A69D9;
+
+  color: #FFFFFF;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/* all sections */
+img {
+  width: 100%;
+}
+
+h1, p {
+  text-align: left;
+}
+
+section {
+  padding-left: 100px;
+  padding-right: 100px;
 }
