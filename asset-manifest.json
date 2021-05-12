@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lilo-landing/static/css/main.c01bd349.chunk.css",
-    "main.js": "/lilo-landing/static/js/main.60df1a82.chunk.js",
-    "main.js.map": "/lilo-landing/static/js/main.60df1a82.chunk.js.map",
+    "main.css": "/lilo-landing/static/css/main.7982f35d.chunk.css",
+    "main.js": "/lilo-landing/static/js/main.1a4e03c9.chunk.js",
+    "main.js.map": "/lilo-landing/static/js/main.1a4e03c9.chunk.js.map",
     "runtime-main.js": "/lilo-landing/static/js/runtime-main.59ca0e67.js",
     "runtime-main.js.map": "/lilo-landing/static/js/runtime-main.59ca0e67.js.map",
     "static/js/2.70d8b17d.chunk.js": "/lilo-landing/static/js/2.70d8b17d.chunk.js",
@@ -10,8 +10,9 @@
     "static/js/3.3e8d1423.chunk.js": "/lilo-landing/static/js/3.3e8d1423.chunk.js",
     "static/js/3.3e8d1423.chunk.js.map": "/lilo-landing/static/js/3.3e8d1423.chunk.js.map",
     "index.html": "/lilo-landing/index.html",
-    "static/css/main.c01bd349.chunk.css.map": "/lilo-landing/static/css/main.c01bd349.chunk.css.map",
+    "static/css/main.7982f35d.chunk.css.map": "/lilo-landing/static/css/main.7982f35d.chunk.css.map",
     "static/js/2.70d8b17d.chunk.js.LICENSE.txt": "/lilo-landing/static/js/2.70d8b17d.chunk.js.LICENSE.txt",
+    "static/media/call.fcdc9d50.png": "/lilo-landing/static/media/call.fcdc9d50.png",
     "static/media/home-screen.f0127b56.png": "/lilo-landing/static/media/home-screen.f0127b56.png",
     "static/media/icon-book.73e77752.svg": "/lilo-landing/static/media/icon-book.73e77752.svg",
     "static/media/icon-call.a43109ab.svg": "/lilo-landing/static/media/icon-call.a43109ab.svg",
@@ -19,18 +20,17 @@
     "static/media/icon-people.5e5f2208.svg": "/lilo-landing/static/media/icon-people.5e5f2208.svg",
     "static/media/logo.8879e6d6.png": "/lilo-landing/static/media/logo.8879e6d6.png",
     "static/media/michelle.0c5606d3.jpg": "/lilo-landing/static/media/michelle.0c5606d3.jpg",
+    "static/media/notification.62bb0af4.png": "/lilo-landing/static/media/notification.62bb0af4.png",
     "static/media/paola.531317c3.jpg": "/lilo-landing/static/media/paola.531317c3.jpg",
     "static/media/patrin.90045851.png": "/lilo-landing/static/media/patrin.90045851.png",
-    "static/media/requester-home-screens.505b8bec.png": "/lilo-landing/static/media/requester-home-screens.505b8bec.png",
-    "static/media/requester-review-screens.a2f59eaa.png": "/lilo-landing/static/media/requester-review-screens.a2f59eaa.png",
-    "static/media/tiffany.323cb6d9.png": "/lilo-landing/static/media/tiffany.323cb6d9.png",
-    "static/media/translator-notification.02d9fab0.png": "/lilo-landing/static/media/translator-notification.02d9fab0.png",
-    "static/media/video-call.7ff4cd3e.png": "/lilo-landing/static/media/video-call.7ff4cd3e.png"
+    "static/media/requestor-feedback.316735ef.png": "/lilo-landing/static/media/requestor-feedback.316735ef.png",
+    "static/media/requestor.d38f0d60.png": "/lilo-landing/static/media/requestor.d38f0d60.png",
+    "static/media/tiffany.323cb6d9.png": "/lilo-landing/static/media/tiffany.323cb6d9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.59ca0e67.js",
     "static/js/2.70d8b17d.chunk.js",
-    "static/css/main.c01bd349.chunk.css",
-    "static/js/main.60df1a82.chunk.js"
+    "static/css/main.7982f35d.chunk.css",
+    "static/js/main.1a4e03c9.chunk.js"
   ]
 }
