@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lilo-landing/static/css/main.7982f35d.chunk.css",
-    "main.js": "/lilo-landing/static/js/main.1a4e03c9.chunk.js",
-    "main.js.map": "/lilo-landing/static/js/main.1a4e03c9.chunk.js.map",
+    "main.css": "/lilo-landing/static/css/main.ced1611f.chunk.css",
+    "main.js": "/lilo-landing/static/js/main.42c49855.chunk.js",
+    "main.js.map": "/lilo-landing/static/js/main.42c49855.chunk.js.map",
     "runtime-main.js": "/lilo-landing/static/js/runtime-main.59ca0e67.js",
     "runtime-main.js.map": "/lilo-landing/static/js/runtime-main.59ca0e67.js.map",
     "static/js/2.70d8b17d.chunk.js": "/lilo-landing/static/js/2.70d8b17d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3e8d1423.chunk.js": "/lilo-landing/static/js/3.3e8d1423.chunk.js",
     "static/js/3.3e8d1423.chunk.js.map": "/lilo-landing/static/js/3.3e8d1423.chunk.js.map",
     "index.html": "/lilo-landing/index.html",
-    "static/css/main.7982f35d.chunk.css.map": "/lilo-landing/static/css/main.7982f35d.chunk.css.map",
+    "static/css/main.ced1611f.chunk.css.map": "/lilo-landing/static/css/main.ced1611f.chunk.css.map",
     "static/js/2.70d8b17d.chunk.js.LICENSE.txt": "/lilo-landing/static/js/2.70d8b17d.chunk.js.LICENSE.txt",
     "static/media/call.fcdc9d50.png": "/lilo-landing/static/media/call.fcdc9d50.png",
     "static/media/home-screen.f0127b56.png": "/lilo-landing/static/media/home-screen.f0127b56.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.59ca0e67.js",
     "static/js/2.70d8b17d.chunk.js",
-    "static/css/main.7982f35d.chunk.css",
-    "static/js/main.1a4e03c9.chunk.js"
+    "static/css/main.ced1611f.chunk.css",
+    "static/js/main.42c49855.chunk.js"
   ]
 }
