@@ -1,8 +1,9 @@
 import React from 'react';
 import waveLogo from '../img/logo.png';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 function Navbar() {
+  const location = useLocation();
   return(
     <nav className="navbar fixed-top navbar-light">
       <div className="d-flex justify-content-between">
@@ -11,8 +12,26 @@ function Navbar() {
         </Link>
       </div>
       <div id="nav-links">
-        <Link to="/">Home</Link>
-        <Link to="/about">About us</Link>
+        <Link 
+          style={ 
+            location.pathname != "/about" 
+              ? { textDecoration: 'underline'} 
+              : {} 
+          } 
+          to="/"
+        >
+          Home
+        </Link>
+        <Link 
+          style={ 
+            location.pathname == "/about" 
+              ? { textDecoration: 'underline'} 
+              : {} 
+          }
+          to="/about"
+        >
+          About us
+        </Link>
       </div>
     </nav>
   )

@@ -16,8 +16,6 @@ import TryIt from './TryIt.js';
  *   (or figure out if there's a way to getCurrentRoute())
  */
 function Home() {
-  alert("this version has no blue line for the navbar");
-
   return(
     <div className="home-page">
       <Summary />
