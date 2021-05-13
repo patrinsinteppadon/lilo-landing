@@ -15,10 +15,10 @@ function App() {
       <Router>
         <Navbar />  
         <Switch>
-          <Route path="/about" component={About}> 
+          <Route path="/about"> 
             <About />
           </Route>
-          <Route path="/" component={Home}>
+          <Route path="/">
             <Home />
           </Route>
         </Switch>

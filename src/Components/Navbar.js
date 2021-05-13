@@ -14,7 +14,7 @@ function Navbar() {
       <div id="nav-links">
         <Link 
           style={ 
-            location.pathname != "/about" 
+            location.pathname !== "/about" 
               ? { textDecoration: 'underline'} 
               : {} 
           } 
@@ -24,7 +24,7 @@ function Navbar() {
         </Link>
         <Link 
           style={ 
-            location.pathname == "/about" 
+            location.pathname === "/about" 
               ? { textDecoration: 'underline'} 
               : {} 
           }
