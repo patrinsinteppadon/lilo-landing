@@ -19,7 +19,7 @@ function About() {
             This is a University of Washington Information School Capstone project for Winter/Spring 2021. 
           </p>
           <p>
-            The backend of the application is inactive. The project will shut down May 26th.
+            The backend of the application is inactive. The project will shut down on May 26th.
           </p>
         </div>
       </section>
@@ -41,7 +41,7 @@ function About() {
               name="Patrin Sinteppadon"
               role="Developer"
               email="sintep@uw.edu"
-              linkedin="localhost:3000"
+              linkedin="https://www.linkedin.com/in/patrin-sinteppadon/"
               img={patrinImg}
             />
           </div>

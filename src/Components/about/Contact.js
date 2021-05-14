@@ -1,7 +1,7 @@
 import React from 'react';
 import './contact.css';
 
-function Contact({name, role, email, linkedin, img}) {
+function Contact({ name, role, email, linkedin, img }) {
   return(
     <div className="contact-card">
       <div className="img-container">
@@ -15,7 +15,7 @@ function Contact({name, role, email, linkedin, img}) {
         <h3>{name}</h3>
         <p>{role}</p>
         <a href = {"mailto: " + email}>{email}</a><br/>
-        <a href={linkedin}>Linkedin</a>
+        <a target="_blank" href={linkedin}>Linkedin</a>
       </div>
     </div>
   )
