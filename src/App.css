@@ -48,12 +48,13 @@ nav a, #nav-links {
 
 /* footer */
 .footer {
-  padding-left: 13px;
+  /* padding-left: 13px; */
   padding-bottom: 10px;
   background-color: #f5f5f5;
 }
 
 .footer p {
+  text-align: center;
   font-size: 12px;
   margin-top: 0px;
   margin-bottom: 0px;
